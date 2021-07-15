@@ -1,5 +1,5 @@
 # LSTM-XGBoost-Random Forest Classifier
-![cover](./assets/cover.png)
+![cover](C:\Users\negis\OneDrive\Pictures\git\cover.png)
 ## Contents
 - LSTM
 - XGBoost
