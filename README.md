@@ -5,7 +5,6 @@
 - XGBoost
 - Random Forest Classifier
 ## Introduction
->
 -Company Valuation: 700 Bil
 -Total Float Shares: 775.59 Mil
 -Total Outstanding Shares: 963.33 Mil
@@ -16,4 +15,4 @@
 -Short Vol.:~40 Mil
 -Next Earning Date: 08/03/2021
 -Anomaly: Dark Pool Trading, Option and futures ITMs and OTMs, FTDs timeline.
-<br>
+
