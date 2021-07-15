@@ -16,3 +16,10 @@
 - Next Earning Date: 08/03/2021
 - Anomaly: Dark Pool Trading, Option and futures ITMs and OTMs, FTDs timeline.
 ![TSLA](img/Picture2.png)
+
+
+##LSTM Result
+![TSLA](img/lstm.png)
+
+##Random Forest Result
+![TSLA](img/RMF.png)
