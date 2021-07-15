@@ -1,5 +1,5 @@
 # LSTM-XGBoost-Random Forest Classifier-Kalman Filter
-![CoverIMG](img/cover.png)
+v
 ## Contents
 - LSTM
 - XGBoost
@@ -15,4 +15,4 @@
 - Short Vol.:~40 Mil
 - Next Earning Date: 08/03/2021
 - Anomaly: Dark Pool Trading, Option and futures ITMs and OTMs, FTDs timeline.
-
+![TSLA](img/Picture2.png)
