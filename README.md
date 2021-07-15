@@ -18,8 +18,12 @@
 ![TSLA](img/Picture2.png)
 
 
-##LSTM Result
+## LSTM Result
 ![TSLA](img/lstm.png)
 
-##Random Forest Result
+## Random Forest Result
 ![TSLA](img/RMF.png)
+
+## XGBoost
+![TSLA](img/xgb-1.png)
+![TSLA](img/xgb.png)
