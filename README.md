@@ -1,5 +1,5 @@
 # LSTM-XGBoost-Random Forest Classifier-Kalman Filter
-<img src="https://github.com/Negi97Mohit/LSTM-XGBoost-RMF-Kalman-Filter/blob/main/img/cover.png" width="500" height="200">
+<img src="https://github.com/Negi97Mohit/LSTM-XGBoost-RMF-Kalman-Filter/blob/main/img/cover.png" width="100" height="300">
 ## Contents
 - LSTM
 - XGBoost
