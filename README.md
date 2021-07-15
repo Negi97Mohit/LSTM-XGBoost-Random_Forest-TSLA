@@ -1,9 +1,11 @@
 ## LSTM-XGBoost-Random Forest Classifier-Kalman Filter
-<img src="https://github.com/Negi97Mohit/LSTM-XGBoost-RMF-Kalman-Filter/blob/main/img/cover.png" width="500" height="250">
+<img src="https://github.com/Negi97Mohit/LSTM-XGBoost-RMF-Kalman-Filter/blob/main/img/cover.png" width="500" height="250"></img>
+
 ## Contents
 - LSTM
 - XGBoost
 - Random Forest Classifier
+- 
 ## Introduction
 - Company Valuation: 700 Bil
 - Total Float Shares: 775.59 Mil
