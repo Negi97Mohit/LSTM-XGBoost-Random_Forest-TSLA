@@ -1,5 +1,5 @@
 # LSTM-XGBoost-Random Forest Classifier-Kalman Filter
-v
+!![TSLA](img/cover.png)
 ## Contents
 - LSTM
 - XGBoost
