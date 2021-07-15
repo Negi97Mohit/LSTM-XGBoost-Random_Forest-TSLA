@@ -27,3 +27,6 @@
 ## XGBoost
 ![TSLA](img/xgb-1.png)
 ![TSLA](img/xgb.png)
+
+## Kalman Filter Result
+![TSLA](img/kalman filter.png)
