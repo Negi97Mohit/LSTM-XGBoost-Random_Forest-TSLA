@@ -1,5 +1,5 @@
 # LSTM-XGBoost-Random Forest Classifier
-![CoverIMG](C:\Users\negis\OneDrive\Pictures\git\cover.png?raw=True "Title")
+![CoverIMG](img/cover.png)
 ## Contents
 - LSTM
 - XGBoost
