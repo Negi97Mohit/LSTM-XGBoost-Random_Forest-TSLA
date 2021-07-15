@@ -15,7 +15,6 @@
 - Short Vol.:~40 Mil
 - Next Earning Date: 08/03/2021
 - Anomaly: Dark Pool Trading, Option and futures ITMs and OTMs, FTDs timeline.
-<img src="https://github.com/Negi97Mohit/LSTM-XGBoost-RMF-Kalman-Filter/blob/main/img/Picture2.png" width="500" height="250">
 
 
 ## LSTM Result
