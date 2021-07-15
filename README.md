@@ -15,18 +15,18 @@
 - Short Vol.:~40 Mil
 - Next Earning Date: 08/03/2021
 - Anomaly: Dark Pool Trading, Option and futures ITMs and OTMs, FTDs timeline.
-![TSLA](img/Picture2.png)
+<img src="https://github.com/Negi97Mohit/LSTM-XGBoost-RMF-Kalman-Filter/blob/main/img/Picture2.png" width="1000" height="250">
 
 
 ## LSTM Result
-![TSLA](img/lstm.png)
+<img src="https://github.com/Negi97Mohit/LSTM-XGBoost-RMF-Kalman-Filter/blob/main/img/lstm.png" width="1000" height="250">
 
 ## Random Forest Result
-![TSLA](img/RMF.png)
+<img src="https://github.com/Negi97Mohit/LSTM-XGBoost-RMF-Kalman-Filter/blob/main/img/RMF.png" width="1000" height="250">
 
 ## XGBoost
-![TSLA](img/xgb-1.png)
-![TSLA](img/xgb.png)
+<img src="https://github.com/Negi97Mohit/LSTM-XGBoost-RMF-Kalman-Filter/blob/main/img/xgb-1.png" width="1000" height="250">
+<img src="https://github.com/Negi97Mohit/LSTM-XGBoost-RMF-Kalman-Filter/blob/main/img/xgb.png" width="1000" height="250">
 
 ## Kalman Filter Result
-![TSLA](img/kalman.png)
+<img src="https://github.com/Negi97Mohit/LSTM-XGBoost-RMF-Kalman-Filter/blob/main/img/kalman.png" width="1000" height="250">
