@@ -1,4 +1,4 @@
-# LSTM-XGBoost-Random Forest Classifier
+# LSTM-XGBoost-Random Forest Classifier-Kalman Filter
 ![CoverIMG](img/cover.png)
 ## Contents
 - LSTM
