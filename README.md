@@ -1,5 +1,5 @@
 # LSTM-XGBoost-Random Forest Classifier-Kalman Filter
-!![TSLA](img/cover.png){:height="25%" width="25%"}
+!![TSLA](img/cover.png){:height="700px" width="400px"}
 ## Contents
 - LSTM
 - XGBoost
