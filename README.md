@@ -5,7 +5,6 @@
 - LSTM
 - XGBoost
 - Random Forest Classifier
-- 
 ## Introduction
 - Company Valuation: 700 Bil
 - Total Float Shares: 775.59 Mil
