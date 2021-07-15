@@ -15,18 +15,18 @@
 - Short Vol.:~40 Mil
 - Next Earning Date: 08/03/2021
 - Anomaly: Dark Pool Trading, Option and futures ITMs and OTMs, FTDs timeline.
-<img src="https://github.com/Negi97Mohit/LSTM-XGBoost-RMF-Kalman-Filter/blob/main/img/Picture2.png" width="1000" height="250">
+<img src="https://github.com/Negi97Mohit/LSTM-XGBoost-RMF-Kalman-Filter/blob/main/img/Picture2.png" width="500" height="250">
 
 
 ## LSTM Result
-<img src="https://github.com/Negi97Mohit/LSTM-XGBoost-RMF-Kalman-Filter/blob/main/img/lstm.png" width="1000" height="250">
+<img src="https://github.com/Negi97Mohit/LSTM-XGBoost-RMF-Kalman-Filter/blob/main/img/lstm.png" width="500" height="250">
 
 ## Random Forest Result
-<img src="https://github.com/Negi97Mohit/LSTM-XGBoost-RMF-Kalman-Filter/blob/main/img/RMF.png" width="1000" height="250">
+<img src="https://github.com/Negi97Mohit/LSTM-XGBoost-RMF-Kalman-Filter/blob/main/img/RMF.png" width="500" height="250">
 
 ## XGBoost
-<img src="https://github.com/Negi97Mohit/LSTM-XGBoost-RMF-Kalman-Filter/blob/main/img/xgb-1.png" width="1000" height="250">
-<img src="https://github.com/Negi97Mohit/LSTM-XGBoost-RMF-Kalman-Filter/blob/main/img/xgb.png" width="1000" height="250">
+<img src="https://github.com/Negi97Mohit/LSTM-XGBoost-RMF-Kalman-Filter/blob/main/img/xgb-1.png" width="500" height="250">
+<img src="https://github.com/Negi97Mohit/LSTM-XGBoost-RMF-Kalman-Filter/blob/main/img/xgb.png" width="500" height="250">
 
 ## Kalman Filter Result
-<img src="https://github.com/Negi97Mohit/LSTM-XGBoost-RMF-Kalman-Filter/blob/main/img/kalman.png" width="1000" height="250">
+<img src="https://github.com/Negi97Mohit/LSTM-XGBoost-RMF-Kalman-Filter/blob/main/img/kalman.png" width="500" height="250">
