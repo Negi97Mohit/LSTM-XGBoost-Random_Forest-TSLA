@@ -1,6 +1,6 @@
 # LSTM-XGBoost-Random Forest Classifier-Kalman Filter
 !![TSLA](img/cover.png){:height="700px" width="400px"}
-<img src="https://github.com/favicon.ico" width="48">
+<img src="https://github.com/Negi97Mohit/LSTM-XGBoost-RMF-Kalman-Filter/blob/main/img/cover.png" width="48">
 ## Contents
 - LSTM
 - XGBoost
