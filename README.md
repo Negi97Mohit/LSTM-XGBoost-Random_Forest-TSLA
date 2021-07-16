@@ -20,14 +20,16 @@
 
 
 ## LSTM Result
-<img src="https://github.com/Negi97Mohit/LSTM-XGBoost-RMF-Kalman-Filter/blob/main/img/lstm.png" width="500" height="250">
+![LSTM](https://github.com/Negi97Mohit/LSTM-XGBoost-RMF-Kalman-Filter/blob/main/img/lstm.png)
+
 
 ## Random Forest Result
-<img src="https://github.com/Negi97Mohit/LSTM-XGBoost-RMF-Kalman-Filter/blob/main/img/RMF.png" width="500" height="250">
+![RFC](https://github.com/Negi97Mohit/LSTM-XGBoost-RMF-Kalman-Filter/blob/main/img/RMF.png)
+
 
 ## XGBoost
-<img src="https://github.com/Negi97Mohit/LSTM-XGBoost-RMF-Kalman-Filter/blob/main/img/xgb-1.png" width="500" height="250">
-<img src="https://github.com/Negi97Mohit/LSTM-XGBoost-RMF-Kalman-Filter/blob/main/img/xgb.png" width="500" height="250">
+![XGB Features](https://github.com/Negi97Mohit/LSTM-XGBoost-RMF-Kalman-Filter/blob/main/img/xgb-1.png)
+![XGB Result](https://github.com/Negi97Mohit/LSTM-XGBoost-RMF-Kalman-Filter/blob/main/img/xgb.png)
 
 ## Kalman Filter Result
-<img src="https://github.com/Negi97Mohit/LSTM-XGBoost-RMF-Kalman-Filter/blob/main/img/kalman.png" width="500" height="250">
+![Kalman Filter](https://github.com/Negi97Mohit/LSTM-XGBoost-RMF-Kalman-Filter/blob/main/img/kalman.png)
