@@ -21,10 +21,10 @@
 
 ## Preliminary Analysis
 - RSI (Relative Strenght Index)
-- Bollinger Band
-- MA, EMA
 ![RSI](https://github.com/Negi97Mohit/LSTM-XGBoost-RMF-Kalman-Filter/blob/main/img/rsi.png)
+- Bollinger Band
 ![Bollinger](https://github.com/Negi97Mohit/LSTM-XGBoost-RMF-Kalman-Filter/blob/main/img/bollinger.png)
+- Short Interest
 ![MA/EMA](https://github.com/Negi97Mohit/LSTM-XGBoost-RMF-Kalman-Filter/blob/main/img/Picture2.png)
 
 
