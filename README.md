@@ -19,6 +19,15 @@
 - Anomaly: Dark Pool Trading, Option and futures ITMs and OTMs, FTDs timeline.
 
 
+## Preliminary Analysis
+- RSI (Relative Strenght Index)
+- Bollinger Band
+- MA, EMA
+![RSI](https://github.com/Negi97Mohit/LSTM-XGBoost-RMF-Kalman-Filter/blob/main/img/rsi.png)
+![Bollinger](https://github.com/Negi97Mohit/LSTM-XGBoost-RMF-Kalman-Filter/blob/main/img/bollinger.png)
+![MA/EMA](https://github.com/Negi97Mohit/LSTM-XGBoost-RMF-Kalman-Filter/blob/main/img/Picture2.png)
+
+
 ## LSTM Result
 ![LSTM](https://github.com/Negi97Mohit/LSTM-XGBoost-RMF-Kalman-Filter/blob/main/img/lstm.png)
 
